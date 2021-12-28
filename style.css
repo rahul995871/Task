@@ -4,7 +4,7 @@
 #div1{
   height: 400px;;
   width:100%;
-  background-image: url('Pics/div2.png');
+  background-image: url('pics/div2.png');
   background-color:  #c7d8df;
   background-repeat: no-repeat;
   background-position: right;
@@ -148,7 +148,7 @@ text-align: center;
   height: 400px;
   width: 100%;
   background-color: #f8e7e0;
-  background-image: url('Pics/div5.png');
+  background-image: url('pics/div5.png');
   background-repeat: no-repeat;
   background-position: left;
 }
